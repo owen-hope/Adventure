@@ -9,7 +9,7 @@ public class Fighter extends Character{
 
     protected double block;
     protected boolean didItHit = false;
-
+    protected boolean stuff;
 
     Fighter(String name,
             double health, double attackReg,
